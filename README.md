@@ -22,7 +22,7 @@
 
 ## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
