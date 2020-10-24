@@ -34,6 +34,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Happy is an application that connects people to residential institutions for the care and education of orphans, making many children's day happier. 
 
-Developed during Rocketseat <strong> Next Level Week 03 </strong>.
+Developed during [Rocketseat](https://rocketseat.com.br/) <strong> Next Level Week 03 </strong>.
 
 ---
